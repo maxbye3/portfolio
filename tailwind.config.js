@@ -11,7 +11,9 @@ module.exports = {
       inset: {
         '100': '100%',
       },
-
+      minHeight: {
+        '450': '450px'
+      },
       padding: {
         '120': '120px',
       },
